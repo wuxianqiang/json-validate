@@ -1,0 +1,23 @@
+{
+  "name": "json-validate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuxianqiang/json-validate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wuxianqiang/json-validate/issues"
+  },
+  "homepage": "https://github.com/wuxianqiang/json-validate#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
